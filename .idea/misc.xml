@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/drawable/splash2.xml" value="0.1155" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1696014828544949" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment_intro.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_intro.xml" value="0.12" />
       </map>
     </option>
   </component>

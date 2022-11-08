@@ -22,6 +22,7 @@
             app:layout_constraintTop_toTopOf="parent" />
         
         <TextView
+            android:id="@+id/first_text"
             android:layout_width="316dp"
             android:layout_height="wrap content"
             android:text= "The best way to manage your daily sales, income and purchases"
@@ -31,6 +32,18 @@
             app:layout_constraintTop_toBottomOf="@id/logo"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_margin="50dp"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_stockabutton"
+            app:layout_constraintTop_toBottomOf="@id/first_text"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_margin="50dp"/>
+        
+        <TextView
+            android:layout_width=""
+            android:layout_height=""
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
