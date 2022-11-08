@@ -115,8 +115,11 @@
             android:textSize="23sp"
             app:layout_constraintStart_toEndOf="@+id/button_image2"
             app:layout_constraintTop_toTopOf="@+id/button_image4" />
-
-
+        
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
