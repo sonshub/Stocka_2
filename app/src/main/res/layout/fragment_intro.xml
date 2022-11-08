@@ -26,7 +26,7 @@
             android:id="@+id/first_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="35dp"
             android:text="The best way to manage your daily sales, income and purchases"
             android:textColor="@color/black"
             android:textSize="24sp"
