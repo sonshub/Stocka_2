@@ -115,11 +115,15 @@
             android:textSize="23sp"
             app:layout_constraintStart_toEndOf="@+id/button_image2"
             app:layout_constraintTop_toTopOf="@+id/button_image4" />
-        
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            
+            app:layout_constraintTop_toBottomOf="@id/fifth_text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:text="Done"/>
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
